@@ -62,6 +62,6 @@ Vijay Sekhar Chennupati - Data Engineer
 2. ...Networking
 3. ...Improve Skills
 
-## **Uberize ....**
+## **Uberize .. Power of Weekend**
 
 
