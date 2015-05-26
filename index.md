@@ -42,11 +42,11 @@ style: |
 
 ## Team
 
-1. Built on HTML, CSS and vanilla JavaScript
-2. All modern browsers are supported
-3. Slide themes are separated from engine
-4. Fully keyboard accessible
-5. Printable to PDF
+* Lal Chakraborthy - IT resource manager
+
+* Murali Vavilakolanu - IT Architect
+
+* Vijay Sekhar Chennupati - Data Engineer
 
 ## **Uberize the Software Development**
 
@@ -61,5 +61,7 @@ style: |
 1. Capitalize weekends
 2. ...Networking
 3. ...Improve Skills
+
+## Uberize ....
 
 
