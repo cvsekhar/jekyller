@@ -42,11 +42,11 @@ style: |
 
 ## Team
 
-* Lal Chakraborthy - IT resource manager
+Lal Chakraborthy - IT resource manager
 
-* Murali Vavilakolanu - IT Architect
+Murali Vavilakolanu - IT Architect
 
-* Vijay Sekhar Chennupati - Data Engineer
+Vijay Sekhar Chennupati - Data Engineer
 
 ## **Uberize the Software Development**
 
@@ -62,6 +62,6 @@ style: |
 2. ...Networking
 3. ...Improve Skills
 
-## Uberize ....
+## **Uberize ....**
 
 
