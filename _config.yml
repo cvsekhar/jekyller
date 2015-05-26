@@ -10,11 +10,11 @@ default_lang: en
 default_body_class: list
 
 author:
-    name: Yours Truly
+    name: pow
     # url:  http://example.com/
     company:
-        name: Famous Inc.
-        # url:  http://example.com/
+        name: pow
+        url:  http://jobtapper.com/
 
 fork_url: https://github.com/shower/shower
 progress: true
